@@ -1,0 +1,10 @@
+* scribble
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/scribble.git   |
+| commit  |   |
+| systems | scribble |
+|---------+-------------------------------------------|
+
