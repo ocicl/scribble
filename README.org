@@ -1,10 +1,9 @@
 * scribble
 
+Scribble: SCRibe-like reader extension for Common Lisp
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/frideau/scribble.git   |
-| commit  |   |
-| systems | scribble |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/scribble.git |
+| commit  | 4e5369b                                                 |
+| systems | scribble                                                |
+|---------+---------------------------------------------------------|
